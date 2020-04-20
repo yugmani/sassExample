@@ -1,2 +1,7 @@
 # sassExample
-Working with SASS
+## Working with SASS
+* variables
+* mixin
+* function
+* responsive -mobile
+
